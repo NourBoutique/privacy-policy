@@ -12,4 +12,4 @@ Data is used solely for business management purposes within your organization.
 All data is stored on your organization's server.
 
 ## Contact
-For questions, contact: waledahmed@example.com
+For questions, contact: waledahmed416@gmail.com
